@@ -1,0 +1,96 @@
+{
+  "resource_pack_name": "Invisible_Armor",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "invisible_armor:transparent_material_leather": {
+      "textures": "textures/items/transparent_material_leather"
+    },
+    "invisible_armor:transparent_material_iron": {
+      "textures": "textures/items/transparent_material_iron"
+    },
+    "invisible_armor:transparent_material_gold": {
+      "textures": "textures/items/transparent_material_gold"
+    },
+    "invisible_armor:transparent_material_diamond": {
+      "textures": "textures/items/transparent_material_diamond"
+    },
+    "invisible_armor:transparent_material_netherite": {
+      "textures": "textures/items/transparent_material_netherite"
+    },
+    "invisible_armor:transparent_material_copper": {
+      "textures": "textures/items/transparent_material_copper"
+    },
+    "invisible_armor:invisible_leather_helmet": {
+      "textures": "textures/items/invisible_leather_helmet"
+    },
+    "invisible_armor:invisible_leather_chestplate": {
+      "textures": "textures/items/invisible_leather_chestplate"
+    },
+    "invisible_armor:invisible_leather_leggings": {
+      "textures": "textures/items/invisible_leather_leggings"
+    },
+    "invisible_armor:invisible_leather_boots": {
+      "textures": "textures/items/invisible_leather_boots"
+    },
+    "invisible_armor:invisible_iron_helmet": {
+      "textures": "textures/items/invisible_iron_helmet"
+    },
+    "invisible_armor:invisible_iron_chestplate": {
+      "textures": "textures/items/invisible_iron_chestplate"
+    },
+    "invisible_armor:invisible_iron_leggings": {
+      "textures": "textures/items/invisible_iron_leggings"
+    },
+    "invisible_armor:invisible_iron_boots": {
+      "textures": "textures/items/invisible_iron_boots"
+    },
+    "invisible_armor:invisible_gold_helmet": {
+      "textures": "textures/items/invisible_gold_helmet"
+    },
+    "invisible_armor:invisible_gold_chestplate": {
+      "textures": "textures/items/invisible_gold_chestplate"
+    },
+    "invisible_armor:invisible_gold_leggings": {
+      "textures": "textures/items/invisible_gold_leggings"
+    },
+    "invisible_armor:invisible_gold_boots": {
+      "textures": "textures/items/invisible_gold_boots"
+    },
+    "invisible_armor:invisible_diamond_helmet": {
+      "textures": "textures/items/invisible_diamond_helmet"
+    },
+    "invisible_armor:invisible_diamond_chestplate": {
+      "textures": "textures/items/invisible_diamond_chestplate"
+    },
+    "invisible_armor:invisible_diamond_leggings": {
+      "textures": "textures/items/invisible_diamond_leggings"
+    },
+    "invisible_armor:invisible_diamond_boots": {
+      "textures": "textures/items/invisible_diamond_boots"
+    },
+    "invisible_armor:invisible_netherite_helmet": {
+      "textures": "textures/items/invisible_netherite_helmet"
+    },
+    "invisible_armor:invisible_netherite_chestplate": {
+      "textures": "textures/items/invisible_netherite_chestplate"
+    },
+    "invisible_armor:invisible_netherite_leggings": {
+      "textures": "textures/items/invisible_netherite_leggings"
+    },
+    "invisible_armor:invisible_netherite_boots": {
+      "textures": "textures/items/invisible_netherite_boots"
+    },
+    "invisible_armor:invisible_copper_helmet": {
+      "textures": "textures/items/invisible_copper_helmet"
+    },
+    "invisible_armor:invisible_copper_chestplate": {
+      "textures": "textures/items/invisible_copper_chestplate"
+    },
+    "invisible_armor:invisible_copper_leggings": {
+      "textures": "textures/items/invisible_copper_leggings"
+    },
+    "invisible_armor:invisible_copper_boots": {
+      "textures": "textures/items/invisible_copper_boots"
+    }
+  }
+}
