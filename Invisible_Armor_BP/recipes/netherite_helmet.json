@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "invisible_armor:netherite_helmet"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "MMM",
+      "M M",
+      "   "
+    ],
+    "key": {
+      "M": {
+        "item": "invisible_armor:transparent_netherite"
+      }
+    },
+    "unlock": [
+      {
+        "item": "invisible_armor:transparent_netherite"
+      }
+    ],
+    "result": {
+      "item": "invisible_armor:netherite_helmet",
+      "count": 1
+    }
+  }
+}

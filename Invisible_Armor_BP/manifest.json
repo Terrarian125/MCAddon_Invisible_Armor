@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Invisible_Armor",
+    "description": "透明素材から作る、プレイヤー専用の透明防具。バニラ防具相当の性能を持つ。",
+    "uuid": "6789863e-eba6-4c0e-ba6e-81ca27499655",
+    "version": [
+      1,
+      4,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      44
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "cc3e6d8e-543c-46a4-b95c-b5247390236a",
+      "version": [
+        1,
+        4,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3d1939f9-ffae-495b-96fb-48b2dc3336c7",
+      "version": [
+        1,
+        4,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "invisible_armor:copper_chestplate",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": {
+        "textures": {
+          "default": "invisible_armor:invisible_copper_chestplate"
+        }
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest",
+        "protection": 4
+      },
+      "minecraft:durability": {
+        "max_durability": 177,
+        "damage_chance": {
+          "min": 100,
+          "max": 100
+        }
+      },
+      "minecraft:damage_absorption": {
+        "absorbable_causes": [
+          "all"
+        ]
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:copper_ingot"
+            ],
+            "repair_amount": 44
+          }
+        ]
+      },
+      "minecraft:enchantable": {
+        "slot": "armor_torso",
+        "value": 8
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_armor",
+          "minecraft:trimmable_armors"
+        ]
+      }
+    }
+  }
+}

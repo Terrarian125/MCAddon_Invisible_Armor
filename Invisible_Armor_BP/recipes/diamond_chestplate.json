@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "invisible_armor:diamond_chestplate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "M M",
+      "MMM",
+      "MMM"
+    ],
+    "key": {
+      "M": {
+        "item": "invisible_armor:transparent_diamond"
+      }
+    },
+    "unlock": [
+      {
+        "item": "invisible_armor:transparent_diamond"
+      }
+    ],
+    "result": {
+      "item": "invisible_armor:diamond_chestplate",
+      "count": 1
+    }
+  }
+}

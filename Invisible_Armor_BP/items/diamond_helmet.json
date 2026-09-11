@@ -1,0 +1,55 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "invisible_armor:diamond_helmet",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": {
+        "textures": {
+          "default": "invisible_armor:invisible_diamond_helmet"
+        }
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.head",
+        "protection": 3
+      },
+      "minecraft:durability": {
+        "max_durability": 363,
+        "damage_chance": {
+          "min": 100,
+          "max": 100
+        }
+      },
+      "minecraft:damage_absorption": {
+        "absorbable_causes": [
+          "all"
+        ]
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:diamond"
+            ],
+            "repair_amount": 90
+          }
+        ]
+      },
+      "minecraft:enchantable": {
+        "slot": "armor_head",
+        "value": 10
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_armor",
+          "minecraft:trimmable_armors"
+        ]
+      }
+    }
+  }
+}
